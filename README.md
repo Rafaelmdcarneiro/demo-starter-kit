@@ -11,10 +11,6 @@ This project is aimed at two totally different target groups:
 
 If you have little to none graphics programming experience, [Processing](processing/README.md) is the best way to get started. It has an intuitive API, good documentation, lots of examples and most importantly, you can get your first visuals on screen in 10 minutes. Also, there's very little boilerplate code you need to write – instead, you can focus on developing content for your awesome first demo!
 
-**Demoscene veterans**
-
-Read more below – this project is currently just starting up, so help is needed!
-
 ## What is demoscene?
 
 From [Wikipedia](http://en.wikipedia.org/wiki/Demoscene): 
